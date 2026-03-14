@@ -1,6 +1,6 @@
 # VADD — Volcano Auditory Display Device
 
-Ted Apel, 2019–2025
+Ted Apel and Jeffrey Johnson
 
 A portable real-time infrasound sonification device built on the Teensy 3.6 microcontroller. VADD transposes sub-audible infrasonic signals (below 20 Hz) into the audible range using frequency modulation, allowing researchers to listen to volcanic activity in the field.
 
